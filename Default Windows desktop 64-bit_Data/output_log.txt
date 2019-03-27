@@ -1,0 +1,72 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     2154 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\HP\Downloads\Compressed\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\HP\Downloads\Compressed\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Downloads\Compressed\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\HP\Downloads\Compressed\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Downloads\Compressed\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\HP\Downloads\Compressed\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Downloads\Compressed\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\HP\Downloads\Compressed\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Downloads\Compressed\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\HP\Downloads\Compressed\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Downloads\Compressed\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\HP\Downloads\Compressed\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Downloads\Compressed\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading C:\Users\HP\Downloads\Compressed\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+Platform assembly: C:\Users\HP\Downloads\Compressed\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll (this message is harmless)
+Loading C:\Users\HP\Downloads\Compressed\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll into Unity Child Domain
+- Completed reload, in  0.116 seconds
+Platform assembly: C:\Users\HP\Downloads\Compressed\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\HP\Downloads\Compressed\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+Platform assembly: C:\Users\HP\Downloads\Compressed\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: C:\Users\HP\Downloads\Compressed\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.763900 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2238 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.827800 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 0.271600 ms (FindLiveObjects: 0.028200 ms CreateObjectMapping: 0.014000 ms MarkObjects: 0.212500 ms  DeleteObjects: 0.016500 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.264900 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1570.
+Total: 1.026400 ms (FindLiveObjects: 0.127900 ms CreateObjectMapping: 0.042400 ms MarkObjects: 0.405800 ms  DeleteObjects: 0.449600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.389200 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 466.
+Total: 4.629800 ms (FindLiveObjects: 0.032700 ms CreateObjectMapping: 0.024100 ms MarkObjects: 0.319000 ms  DeleteObjects: 4.253500 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.732000 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1573.
+Total: 1.033000 ms (FindLiveObjects: 0.123700 ms CreateObjectMapping: 0.040500 ms MarkObjects: 0.408600 ms  DeleteObjects: 0.459500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.810100 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 466.
+Total: 4.981800 ms (FindLiveObjects: 0.040900 ms CreateObjectMapping: 0.038600 ms MarkObjects: 0.396300 ms  DeleteObjects: 4.502500 ms)
+
